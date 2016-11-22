@@ -1,6 +1,6 @@
-# python-IDEA-encryption-mode-ctr-
+# python-IDEA-encryption-mode-ctr-socket_programming-sessionKey
 IDEA encryption MODE_CTR using cryptoplus
-
+Socket connection with server and client to communicate passing encrypted and decrypted message,session key
 
 Language Used: Python 2.7 (Download Link: https://www.python.org/downloads/ )
 
